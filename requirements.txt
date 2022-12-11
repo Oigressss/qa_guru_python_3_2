@@ -1,0 +1,5 @@
+pytest==7.1
+allure-pytest
+pip install
+
+
